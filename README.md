@@ -44,3 +44,11 @@ The t-test for Lot 2 shows that isn't sufficient evidence to reject the null, th
 
 The t-test for Lot 3 shows that there is sufficience evidence to accept the null, the two means are not statistically similar.  It's p-vaule is 0.04. 
 
+
+
+## Study Design: MechaCar vs Competition
+
+In today's time, customers are very interested in cost, safety, maintenance costs, and highway fuel efficiency.  
+I would test a null hypothesis of the cost of the car has no statistical significance to the highway fuel efficiency and maintenance costs of the car.  The alternative hypothesis is that the cost has a great deal to do with the statistical significance to the highway fuel efficiency and maintaince costs of the car. 
+I would use a simple linear regression test to for each variable to test the hypothesis. I would use linear regression because I want to know how these variables interact to predict the value of the dependent variable.
+The data that would be needed for these tests are the costs, average fuel efficency, and average maintenance costs for a wide variety of vehicles, (cars, trucks, SUVs). 
